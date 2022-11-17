@@ -1,0 +1,16 @@
+{
+    "name": "cinema-tickets-javascript",
+    "author": "Tom Clark",
+    "description": "This is my response to the coding exercise - application for Senior Software Engineer (242265), November 2022.",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=16.15.1"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^28.1.1"
+    }
+}
